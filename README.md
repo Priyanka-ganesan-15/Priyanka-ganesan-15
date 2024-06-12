@@ -1,6 +1,3 @@
-Certainly! Here's a sample introduction about you for your GitHub profile:
-
----
 
 # 👋 About Me
 

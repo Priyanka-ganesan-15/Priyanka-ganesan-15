@@ -12,7 +12,8 @@ Hello there! I'm [Your Name], a passionate developer with a love for crafting in
 ## 🚀 My Skills
 
 - **Languages**: JavaScript, Python, HTML/CSS, SQL
-- **Frameworks/Libraries**: React, Node.js, Express.js, Django, kafka, 
+- **Frameworks/Libraries**: React, Node.js, Express.js, Django, kafka
+- **cloud-providers**: Azure, AWS, GCP
 - **Tools**: Git, VS Code, Postman, Docker, Prometheus, Cassandra
 
 
